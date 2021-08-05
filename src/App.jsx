@@ -10,7 +10,7 @@ export default function App() {
       <Header />
       <Calculadora />
       <Sidebar />
-      <Header />
+      <Footer />
     </div>
   )
 }
